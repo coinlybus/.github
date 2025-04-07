@@ -12,9 +12,9 @@ A software company created to bridge the access to cryptocurrency in Nigeria web
 
 ## Tech Stack
 
-**Client:** React, NextJs, TailwindCSS, Zustand, SWR
+**Client:** TypeScript, NextJs
 
-**Server:** PHP, Laravel, Postgresql
+**Server:** TypeScript, NestJs
 
 
 ## Support
