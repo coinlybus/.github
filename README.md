@@ -14,6 +14,8 @@ A software company created to bridge the access to cryptocurrency in Nigeria web
 
 **Client:** TypeScript, NextJs
 
+**Mobile:** TypeScript, Expo
+
 **Server:** TypeScript, NestJs
 
 
